@@ -7,9 +7,14 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-* ![Wireframe-login](https://github.com/iainxiao/liftoff-assignments/P3-Project_Planning/images/WFLogin.jpg)
-* ![Wireframe-home-search](https://github.com/iainxiao/liftoff-assignments/P3-Project_Planning/images/WFHome-search2.jpg)
-* ![Wireframe-search-results](https://github.com/iainxiao/liftoff-assignments/P3-Project_Planning/images/WFSearch-results2.jpg)
+* Wireframe 1: Login page
+![Wireframe-login](http://github.com/iainxiao/liftoff-assignments/P3-Project_Planning/images/WFLogin.jpg)
+
+* Wireframe 2: Home/Search page 
+![Wireframe-home-search](http://github.com/iainxiao/liftoff-assignments/P3-Project_Planning/images/WFHome-search2.jpg)
+
+* Wireframe 3: Search Results page 
+![Wireframe-search-results](http://github.com/iainxiao/liftoff-assignments/P3-Project_Planning/images/WFSearch-results2.jpg)
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
